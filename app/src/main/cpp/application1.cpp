@@ -3,7 +3,7 @@
 extern "C" JNIEXPORT jstring
 
 JNICALL
-Java_com_test_application1_AsyncGet_siteFromJNI(
+Java_com_test_application1_GetPostsAsync_getSiteFromJNI(
         JNIEnv *env,
         jobject
         )
